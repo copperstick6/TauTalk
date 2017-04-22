@@ -25,9 +25,6 @@ def sendEmail(txt):
 
 	msg = header + "\n" + txt + "\n\n"
 	smtpserver.sendmail(donut, to, msg)
-
-	print()
-
 	smtpserver.close()
 
 	return
