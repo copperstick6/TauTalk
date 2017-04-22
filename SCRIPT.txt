@@ -1,0 +1,9 @@
+start Trans America
+LoginIntent Log me in please
+LoggedInIntent I am logged in
+RetirementIntent Retirement Product
+InsuranceIntent Insurance Product
+bothIntent both products
+stateIntent {state}
+phoneIntent My phone number is {phoneNumber}
+phoneIntent {phoneNumber}

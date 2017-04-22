@@ -1,0 +1,13 @@
+welcome: Welcome to Transamerica. I'm Tammy, your virtual assistant. Please say Log me in Please.
+
+login_please: Please log in using the Alexa app. Once logged in, say I am logged in.
+
+invalid_account: We couldn't link your account that is attached to this echo device. Please make sure it is a valid amazon account.
+
+logged_in: You logged in successfully. We've got your email and name. Are you interested in retirement or insurance products? Say retirement product or insurence product or say both products to indicate your choice.
+
+state_question: Which state do you live in?
+
+phoneNumber: What is your phone number?
+
+result: Thanks for your input! This is what I got from our quick conversation. Your name is {{ name }},your email is {{ email }}, your phone number is {{ phone }} you live in {{ state }}, your preferred product is {{ product }}. I have sent your information to the Trans America team and they will be contacting you shortly! Have a nice day!
