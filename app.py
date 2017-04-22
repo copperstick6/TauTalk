@@ -48,6 +48,20 @@ def getInsurance():
     session.attributes['product'] = "a insurance product"
     return question(render_template('state_question'))
 
+@ask.intent('helpIntent')
+def getHelp():
+    return question(render_template('generalHelp'))
+
+@ask.intent('retirementHelpIntent')
+def getRetirementHelp():
+    return question(render_template('retirementHelp'))
+
+
+@ask.intent('insuranceHelpIntent')
+def getInsuranceHelp():
+    return question(render_template('insuranceHelp'))
+
+
 @ask.intent('bothIntent')
 def getBoth():
     session.attributes['product'] = "both insurance and retirement products"

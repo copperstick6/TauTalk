@@ -4,7 +4,13 @@ login_please: Please link your account to this Alexa skill using the Alexa app. 
 
 invalid_account: We couldn't link your account that is attached to this echo device. Please make sure it is a valid amazon account.
 
-logged_in: You linked successfully. We've got your email and name. Are you interested in retirement or insurance products? Say retirement product or insurence product or say both products to indicate your choice.
+logged_in: You linked successfully. We've got your email and name. Are you interested in retirement or insurance products? Say retirement product or insurence product or say both products to indicate your choice. If you would like to learn more about either product say help
+
+generalHelp: If you would like to learn about any of our retirement or insurance products at any time, just say retirement help or insurance help.
+
+insuranceHelp: Here at Trans America, we are devoted towards protecting the wealth and health of you and your loved ones through our various insurance policies. After you complete this Alexa skill, one of our representatives will be in contact if you are interested in this product.
+
+retirementHelp: Here at Trans America, we are focused on providing retirement plans and advice to help anyone get ready for retirement, from large organizations to smaller organizations. After you complete this Alexa skill, one of our representatives will be in contact if you are interested in this product!
 
 state_question: Which state do you live in?
 
