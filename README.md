@@ -1,7 +1,9 @@
 # TransAmericaChallenge
 
+# Winner of Earthack's (HackDFW) Transamerica Google Home Challenge
+
 Challenge Description:
-## TransAmerica - Google Home  
+TransAmerica - Google Home  
 Build a Google Home lead capture conversational app.   
 Winners will receive a Google Home.   
 They said it was ok to build it with Alexa, so that's what I did. (I really don't like NodeJS, JavaScript confuses me, but I'll need to learn it someday. Today is not that day).
